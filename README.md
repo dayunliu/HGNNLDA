@@ -1,2 +1,2 @@
 # HGNNLDA
-HGNNLDA: Predicting lncRNA-drug sensitivity associations via a dual channel hypergraph neural network
+HGNNLDA is a computational framework which is used to predict lncRNA and drug sensitivity associations.
